@@ -28,9 +28,9 @@
 |Фоновое изображение для заголовков|empty.gif|http://goo.gl/3WoX1S|
 |Фоновое изображение для категорий (слева)|empty.gif|http://goo.gl/3WoX1S|
 |Фоновое изображение для категорий (справа)|empty.gif|http://goo.gl/3WoX1S|
-|Панель голосования - Cлева|| |
-|Панель голосования - По центру|| |
-|Панель голосования - Справа|| |
+|Панель голосования - Cлева|bar_left.gif|http://goo.gl/916Zwp|
+|Панель голосования - По центру|bar.gif|http://goo.gl/oBTE0j|
+|Панель голосования - Справа|bar_right.gif|http://goo.gl/lsVUFD|
 |Форум|empty.gif|http://goo.gl/3WoX1S|
 |Календарь|empty.gif|http://goo.gl/3WoX1S|
 |Галерея|empty.gif|http://goo.gl/3WoX1S|
@@ -45,8 +45,8 @@
 |Регистрация|empty.gif|http://goo.gl/3WoX1S|
 |Вход|empty.gif|http://goo.gl/3WoX1S|
 |Выход|empty.gif|http://goo.gl/3WoX1S|
-|Кто сейчас на форуме| | |
+|Кто сейчас на форуме|user.gif|http://goo.gl/TnkmXM|
 |Дни рождения| | |
 |Календарь| | |
 |Статистика| | |
-|ЧАТ| | |
+|ЧАТ|user.gif|http://goo.gl/TnkmXM|
