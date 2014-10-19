@@ -16,40 +16,39 @@
 В ПА выбрать вкладку "Оформление". 
 В правой панели в группе "Картинки и цвета" пункт "Управление картинками", выбрать "Продвинутый режим".
 
-Все картинки загружены в [общедоступный альбом](https://picasaweb.google.com/102262071588531283701/WOTSPICE?authuser=0&feat=directlink) на picasaweb.google.com. Для сокращения длины url-адресов картинок
-использован сервис http://goo.gl/ . Имена файлов картинок даются относительно каталога *images* данного репозитария.
+Имена файлов картинок даются относительно каталога *images* данного репозитария. Для сокращения длины url-адресов картинок использован сервис http://goo.gl/ . 
 
 ### Общие/навигация
 
 |Элемент|Файл|URL|
 |-------|----|---|
-|Лого форума|logo/top4.png|http://goo.gl/OZqLrx|
-|Фоновое изображение страницы|empty.gif|http://goo.gl/3WoX1S|
-|Фоновое изображение для заголовков|empty.gif|http://goo.gl/3WoX1S|
-|Фоновое изображение для категорий (слева)|empty.gif|http://goo.gl/3WoX1S|
-|Фоновое изображение для категорий (справа)|empty.gif|http://goo.gl/3WoX1S|
-|Панель голосования - Cлева|bar_left.gif|http://goo.gl/916Zwp|
-|Панель голосования - По центру|bar.gif|http://goo.gl/oBTE0j|
-|Панель голосования - Справа|bar_right.gif|http://goo.gl/lsVUFD|
-|Форум|empty.gif|http://goo.gl/3WoX1S|
-|Календарь|empty.gif|http://goo.gl/3WoX1S|
-|Галерея|empty.gif|http://goo.gl/3WoX1S|
-|Портал|empty.gif|http://goo.gl/3WoX1S|
-|ЧаВо|empty.gif|http://goo.gl/3WoX1S|
-|Поиск|empty.gif|http://goo.gl/3WoX1S|
-|Пользователи|empty.gif|http://goo.gl/3WoX1S|
-|Группы|empty.gif|http://goo.gl/3WoX1S|
-|Настройки профиля|empty.gif|http://goo.gl/3WoX1S|
-|Личные сообщения|empty.gif|http://goo.gl/3WoX1S|
-|Новые личные сообщения|empty.gif|http://goo.gl/3WoX1S|
-|Регистрация|empty.gif|http://goo.gl/3WoX1S|
-|Вход|empty.gif|http://goo.gl/3WoX1S|
-|Выход|empty.gif|http://goo.gl/3WoX1S|
-|Кто сейчас на форуме|user.gif|http://goo.gl/TnkmXM|
-|Дни рождения|calen.gif|http://goo.gl/NLy7YG|
-|Календарь|calen.gif|http://goo.gl/NLy7YG|
-|Статистика|stats.gif|http://goo.gl/vXKFvJ|
-|ЧАТ|user.gif|http://goo.gl/TnkmXM|
+|Лого форума|logo/top4.png|http://goo.gl/DYgJSW|
+|Фоновое изображение страницы|empty.gif|http://goo.gl/EV0NBP|
+|Фоновое изображение для заголовков|empty.gif|http://goo.gl/EV0NBP|
+|Фоновое изображение для категорий (слева)|empty.gif|http://goo.gl/EV0NBP|
+|Фоновое изображение для категорий (справа)|empty.gif|http://goo.gl/EV0NBP|
+|Панель голосования - Cлева|bar_left.gif|http://goo.gl/xVqAcC|
+|Панель голосования - По центру|bar.gif|http://goo.gl/iNmWU9|
+|Панель голосования - Справа|bar_right.gif|http://goo.gl/AqNBVb|
+|Форум|empty.gif|http://goo.gl/EV0NBP|
+|Календарь|empty.gif|http://goo.gl/EV0NBP|
+|Галерея|empty.gif|http://goo.gl/EV0NBP|
+|Портал|empty.gif|http://goo.gl/EV0NBP|
+|ЧаВо|empty.gif|http://goo.gl/EV0NBP|
+|Поиск|empty.gif|http://goo.gl/EV0NBP|
+|Пользователи|empty.gif|http://goo.gl/EV0NBP|
+|Группы|empty.gif|http://goo.gl/EV0NBP|
+|Настройки профиля|empty.gif|http://goo.gl/EV0NBP|
+|Личные сообщения|empty.gif|http://goo.gl/EV0NBP|
+|Новые личные сообщения|empty.gif|http://goo.gl/EV0NBP|
+|Регистрация|empty.gif|http://goo.gl/EV0NBP|
+|Вход|empty.gif|http://goo.gl/EV0NBP|
+|Выход|empty.gif|http://goo.gl/EV0NBP|
+|Кто сейчас на форуме|user.gif|http://goo.gl/SldGNB|
+|Дни рождения|calen.gif|http://goo.gl/M8erQk|
+|Календарь|calen.gif|http://goo.gl/M8erQk|
+|Статистика|stats.gif|http://goo.gl/tCg4GM|
+|ЧАТ|user.gif|http://goo.gl/SldGNB|
 
 ### Иконки форума
 
