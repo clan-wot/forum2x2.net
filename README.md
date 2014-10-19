@@ -7,3 +7,4 @@ forum2x2.net
 
 Все материалы, представленные в этом репозитарии, могут распространяться бесплатно, под лицензией [MIT](https://github.com/clan-wot/forum2x2.net/blob/master/LICENSE). Вы можете свободно использовать их для создания своих форумов.
 
+[Описание настроек форума](https://github.com/clan-wot/forum2x2.net/blob/master/settings.md)
