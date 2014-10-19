@@ -46,7 +46,7 @@
 |Вход|empty.gif|http://goo.gl/3WoX1S|
 |Выход|empty.gif|http://goo.gl/3WoX1S|
 |Кто сейчас на форуме|user.gif|http://goo.gl/TnkmXM|
-|Дни рождения| | |
-|Календарь| | |
-|Статистика| | |
+|Дни рождения|calen.gif|http://goo.gl/NLy7YG|
+|Календарь|calen.gif|http://goo.gl/NLy7YG|
+|Статистика|stats.gif|http://goo.gl/vXKFvJ|
 |ЧАТ|user.gif|http://goo.gl/TnkmXM|
