@@ -1,0 +1,253 @@
+ipbwrapper {
+margin: 0 auto;
+min-width: 1001px;
+padding: 5px;
+text-align: left;
+width: 90%;
+box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+#site-desc {
+margin: 0px;
+}
+
+div#logostrip {
+//background-color: #fff;
+background-image: url(http://i56.servimg.com/u/f56/18/61/98/69/wolf_v12.png);
+background-repeat: repeat-x;
+color: #fff;
+min-height: 68px;
+text-align: center;
+}
+
+//http://illiweb.com/fa/empty.gif
+
+p {
+display: block;
+-webkit-margin-before: 0em;
+-webkit-margin-after: 0em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+}
+
+.post {
+    background-color: rgb(228, 230, 233);
+    border: 1px solid rgb(94, 94, 94);
+}
+
+#MrScrollUp div{
+width:149px;
+overflow:hidden;
+position:absolute;
+left:0;
+top:0;
+margin:0;
+padding:0;
+}
+
+#MrScrollUp .MrScrollUp1{
+background:url(http://wot.inf.lv/tmp/rocket10-01-03.png) no-repeat -149px 0;
+opacity:0;
+height:250px;
+display:none;
+z-index:1;
+}
+
+#MrScrollUp .MrScrollUp2{
+background:transparent;
+cursor:pointer;
+display:block;
+z-index:2;
+height:150px;
+}
+
+#MrScrollUp{
+z-index:11;
+width:149px;
+height:250px;
+display:block;
+overflow:hidden;
+cursor:default;
+position:fixed;
+right:0;
+top:95%;
+background:url(http://wot.inf.lv/tmp/rocket10-01-02.png) no-repeat 0 0;
+margin:-125px 0 0;
+padding:0;
+}
+
+#fa_share {
+display: none !important;
+}
+
+/* настройки панелей */
+#fa_menulist, #notif_list {
+margin-top: 5px !important;
+border-color: transparent !important;
+border-radius: 6px !important;
+-moz-border-radius: 6px !important;
+-webkit-border-radius: 6px !important;
+-moz-box-shadow: -1px 3px 5px #000;
+-webkit-box-shadow: -1px 3px 5px #000;
+box-shadow: -1px 3px 5px #000;
+background-color: #fff;
+}
+
+.user2 {
+text-align:center;
+}
+.user2 div{
+height:13px;
+width:87px;
+background: transparent url("http://wot.inf.lv/tmp/offline.png") no-repeat top left;
+margin: -7px auto 0;
+position: relative;
+}
+.rec {
+margin: 0 auto;
+position: relative;
+height:13px;
+width:87px;
+}
+/*citata-------*/
+    /* Quote on IPB */
+    blockquote{
+    background:none;
+    border:0!important;
+    min-height:35px!important;
+    padding:14px 30px 5px 8px;
+    font-size:14px; /* размер шрифта */
+    line-height:17px;
+    color:#504536; /* цвет шрифта */
+    font-family:Georgia; /* название шрифта */
+    font-style:italic; /* наклонный шрифт */
+    }
+    blockquote div {
+    border-radius:8px;
+    border:solid 1px #B38000; /* рамка цитаты */
+    background:url(http://wot.inf.lv/tmp/citata/7699510.jpg) bottom left repeat-x #FFFEF9; /* фон блока цитаты */
+    max-width:92%; /* максимальная ширина цитаты */
+    padding:10px 20px 10px 20px;
+    position:relative;
+    }
+    blockquote div:before {
+    content:'';
+    background:url(http://wot.inf.lv/tmp/citata/openq12.png) top left no-repeat transparent; /* открывающая кавычка */
+    position:absolute;
+    width:11px;
+    height:11px;
+    top:15px;
+    left:3px;
+    }
+    blockquote div:after {
+    content:'';
+    position:absolute;
+    z-index:100;
+    background:url(http://wot.inf.lv/tmp/citata/closeq12.png) top left no-repeat transparent; /* закрывающая кавычка */
+    width:11px;
+    height:11px;
+    right:4px;
+    bottom:2px;
+    }
+    /* оформление заголовка */
+    blockquote div cite {
+    font-style:normal;
+    font-weight:700; /* жирный шрифт */
+    display:block;
+    font-size:13px; /* размер шрифта заголовка цитаты */
+    color:#000; /* цвет шрифта заголовка цитаты */
+    background:url(http://wot.inf.lv/tmp/citata/qhm_210.png) top left repeat-x transparent; /* фон шапки цитаты (средняя часть) */
+    height:32px;
+    position:absolute;
+    z-index:100;
+    top:-10px;
+    text-shadow:#fff 1px 1px; /* тень текста заголовка */
+    left:27px;
+    }
+    blockquote div cite:before {
+    content:'';
+    position:absolute;
+    z-index:-1;
+    background:url(http://wot.inf.lv/tmp/citata/qho_210.png) no-repeat 0 0 transparent; /* фон шапки цитаты (левая часть - сапог) */
+    width:31px;
+    height:38px!important;
+    left:-31px;
+    top:0px;
+    }
+    blockquote div cite:after {
+    content:'';
+    background:url(http://wot.inf.lv/tmp/citata/qhc_210.png) no-repeat 0 0 transparent; /* фон шапки цитаты (правыя часть) */
+    position:absolute;
+    right:-10px;
+    top:0px;
+    width:10px;
+    height:32px;
+    }
+/*--MENU----------------------------------------------------------------------------*/
+a.mainmenu{
+	-moz-box-shadow: 0px 4px 5px -3px #555555;
+	-webkit-box-shadow: 0px 4px 5px -3px #555555;
+	box-shadow: 0px 4px 5px -3px #555555;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #555555), color-stop(1, #ededed));
+	background:-moz-linear-gradient(top, #555555 5%, #ededed 100%);
+	background:-webkit-linear-gradient(top, #555555 5%, #ededed 100%);
+	background:-o-linear-gradient(top, #555555 5%, #ededed 100%);
+	background:-ms-linear-gradient(top, #555555 5%, #ededed 100%);
+	background:linear-gradient(to bottom, #555555 5%, #ededed 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf',GradientType=0);
+	background-color:#999999;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:1px solid #666666;
+	display:inline-block;
+	cursor:pointer;
+	color:#777777;
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	padding:1px 1px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #cccccc;
+  	line-height: 110%;
+}
+a.mainmenu:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed));
+	background:-moz-linear-gradient(top, #dfdfdf 5%, #ededed 100%);
+	background:-webkit-linear-gradient(top, #dfdfdf 5%, #ededed 100%);
+	background:-o-linear-gradient(top, #dfdfdf 5%, #ededed 100%);
+	background:-ms-linear-gradient(top, #dfdfdf 5%, #ededed 100%);
+	background:linear-gradient(to bottom, #dfdfdf 5%, #ededed 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed',GradientType=0);
+	background-color:#dfdfdf;
+}
+a.mainmenu:active {
+	position:relative;
+	top:1px;
+}
+#submenu
+{
+  /*background-color:#E6E7E8;*/
+  background-color:#E0E0E0;
+}
+p#site-desc {
+display: none !important;
+}
+
+div.maintitle
+{
+  background-color:#0099ff;
+  background-image:url(http://wot.inf.lv/tmp/top/img_mask_small.png);
+  background:repeat scroll 0 0 #040FDB;
+}
+div#chatbox_header
+{
+  background-color:#ff0000;
+  background-image:url(http://wot.inf.lv/tmp/top/img_mask_small.png);
+  background:repeat scroll 0 0 #040FDB;
+}
+
+div#main-content
+{
+  overflow:auto;
+}
