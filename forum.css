@@ -13,14 +13,12 @@ margin: 0px;
 
 div#logostrip {
 //background-color: #fff;
-background-image: url(http://i56.servimg.com/u/f56/18/61/98/69/wolf_v12.png);
+background-image: url(http://goo.gl/de6NC7); // wolf_v12.png
 background-repeat: repeat-x;
 color: #fff;
 min-height: 68px;
 text-align: center;
 }
-
-//http://illiweb.com/fa/empty.gif
 
 p {
 display: block;
@@ -46,7 +44,7 @@ padding:0;
 }
 
 #MrScrollUp .MrScrollUp1{
-background:url(http://wot.inf.lv/tmp/rocket10-01-03.png) no-repeat -149px 0;
+background:url(http://goo.gl/GMkJbc) no-repeat -149px 0; // logo/rocket10-01-03.png
 opacity:0;
 height:250px;
 display:none;
@@ -71,7 +69,7 @@ cursor:default;
 position:fixed;
 right:0;
 top:95%;
-background:url(http://wot.inf.lv/tmp/rocket10-01-02.png) no-repeat 0 0;
+background:url(http://goo.gl/yQNFwg) no-repeat 0 0; // logo/rocket10-01-02.png
 margin:-125px 0 0;
 padding:0;
 }
@@ -99,7 +97,7 @@ text-align:center;
 .user2 div{
 height:13px;
 width:87px;
-background: transparent url("http://wot.inf.lv/tmp/offline.png") no-repeat top left;
+background: transparent url(http://goo.gl/WWmRrO) no-repeat top left; // logo/offline.png
 margin: -7px auto 0;
 position: relative;
 }
@@ -237,13 +235,13 @@ display: none !important;
 div.maintitle
 {
   background-color:#0099ff;
-  background-image:url(http://wot.inf.lv/tmp/top/img_mask_small.png);
+  background-image:url(http://goo.gl/k2hNWK); // logo/img_mask_small.png
   background:repeat scroll 0 0 #040FDB;
 }
 div#chatbox_header
 {
   background-color:#ff0000;
-  background-image:url(http://wot.inf.lv/tmp/top/img_mask_small.png);
+  background-image:url(http://goo.gl/k2hNWK); // logo/img_mask_small.png
   background:repeat scroll 0 0 #040FDB;
 }
 
