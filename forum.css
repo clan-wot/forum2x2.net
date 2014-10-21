@@ -123,14 +123,14 @@ width:87px;
     blockquote div {
     border-radius:8px;
     border:solid 1px #B38000; /* рамка цитаты */
-    background:url(http://wot.inf.lv/tmp/citata/7699510.jpg) bottom left repeat-x #FFFEF9; /* фон блока цитаты */
+    background:url(http://goo.gl/dTV4EK) bottom left repeat-x #FFFEF9; /* фон блока цитаты 7699510.jpg */
     max-width:92%; /* максимальная ширина цитаты */
     padding:10px 20px 10px 20px;
     position:relative;
     }
     blockquote div:before {
     content:'';
-    background:url(http://wot.inf.lv/tmp/citata/openq12.png) top left no-repeat transparent; /* открывающая кавычка */
+    background:url(http://goo.gl/XtqRbB) top left no-repeat transparent; /* открывающая кавычка openq12.png */
     position:absolute;
     width:11px;
     height:11px;
@@ -141,7 +141,7 @@ width:87px;
     content:'';
     position:absolute;
     z-index:100;
-    background:url(http://wot.inf.lv/tmp/citata/closeq12.png) top left no-repeat transparent; /* закрывающая кавычка */
+    background:url(http://goo.gl/0KQQ6W) top left no-repeat transparent; /* закрывающая кавычка closeq12.png */
     width:11px;
     height:11px;
     right:4px;
@@ -154,7 +154,7 @@ width:87px;
     display:block;
     font-size:13px; /* размер шрифта заголовка цитаты */
     color:#000; /* цвет шрифта заголовка цитаты */
-    background:url(http://wot.inf.lv/tmp/citata/qhm_210.png) top left repeat-x transparent; /* фон шапки цитаты (средняя часть) */
+    background:url(http://goo.gl/lbPCGd) top left repeat-x transparent; /* фон шапки цитаты, средняя часть qhm_210.png */
     height:32px;
     position:absolute;
     z-index:100;
@@ -166,7 +166,7 @@ width:87px;
     content:'';
     position:absolute;
     z-index:-1;
-    background:url(http://wot.inf.lv/tmp/citata/qho_210.png) no-repeat 0 0 transparent; /* фон шапки цитаты (левая часть - сапог) */
+    background:url(http://goo.gl/tzhzZd) no-repeat 0 0 transparent; /* фон шапки цитаты, левая часть - сапог qho_210.png */
     width:31px;
     height:38px!important;
     left:-31px;
@@ -174,7 +174,7 @@ width:87px;
     }
     blockquote div cite:after {
     content:'';
-    background:url(http://wot.inf.lv/tmp/citata/qhc_210.png) no-repeat 0 0 transparent; /* фон шапки цитаты (правыя часть) */
+    background:url(http://goo.gl/OUftUV) no-repeat 0 0 transparent; /* фон шапки цитаты, правыя часть qhc_210.png */
     position:absolute;
     right:-10px;
     top:0px;
