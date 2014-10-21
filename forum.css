@@ -13,7 +13,7 @@ margin: 0px;
 
 div#logostrip {
 //background-color: #fff;
-background-image: url(http://goo.gl/de6NC7); // wolf_v12.png
+background-image: url(http://goo.gl/de6NC7); /* wolf_v12.png */
 background-repeat: repeat-x;
 color: #fff;
 min-height: 68px;
@@ -44,7 +44,7 @@ padding:0;
 }
 
 #MrScrollUp .MrScrollUp1{
-background:url(http://goo.gl/GMkJbc) no-repeat -149px 0; // logo/rocket10-01-03.png
+background:url(http://goo.gl/GMkJbc) no-repeat -149px 0; /* logo/rocket10-01-03.png */
 opacity:0;
 height:250px;
 display:none;
@@ -69,7 +69,7 @@ cursor:default;
 position:fixed;
 right:0;
 top:95%;
-background:url(http://goo.gl/yQNFwg) no-repeat 0 0; // logo/rocket10-01-02.png
+background:url(http://goo.gl/yQNFwg) no-repeat 0 0; /* logo/rocket10-01-02.png */
 margin:-125px 0 0;
 padding:0;
 }
@@ -97,7 +97,7 @@ text-align:center;
 .user2 div{
 height:13px;
 width:87px;
-background: transparent url(http://goo.gl/WWmRrO) no-repeat top left; // logo/offline.png
+background: transparent url(http://goo.gl/WWmRrO) no-repeat top left; /* logo/offline.png */
 margin: -7px auto 0;
 position: relative;
 }
