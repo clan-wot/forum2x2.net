@@ -52,6 +52,13 @@
 
 |Элемент|Файл|
 |-------|----|
+|Категория|[1u0210.png](http://goo.gl/R8TkeH)|
+|Категория - Новое|[znfd10.png](http://goo.gl/v67FUP)|
+|Категория - Закрыт|[thema_10.png](http://goo.gl/Xwra3K)|
+|Форум|[1u0210.png](http://goo.gl/R8TkeH)|
+|Форум - Новое|[znfd10.png](http://goo.gl/v67FUP)|
+|Форум - Закрыт|[thema_10.png](http://goo.gl/Xwra3K)|
+
 
 ### Иконки тем
 
