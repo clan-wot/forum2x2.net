@@ -70,19 +70,19 @@
 |Тема - Закрыт|[thema_10.png](http://goo.gl/Xwra3K)|
 |Тема - Новое & Закрыт|[thema_11.png](http://goo.gl/IvBjBH)|
 |Тема - Популярная тема|[thema_13.png](http://goo.gl/CLRFWl)|
-|Объявление|[f_announce.gif]()|
-|Объявление - Новое|[f_announce_new.gif]()|
-|Общее объявление|[folder_announce.gif]()|
-|Общее объявление - Новое|[folder_announce_new.gif]()|
-|Важно|[f_pinned.gif]()|
-|Важно - Новое|[f_pinned_new.gif]()|
-|Удалить тему|[topic_delete.gif]()|
-|Закрыть тему|[topic_lock.gif]()|
-|Объединить темы|[topic_merge.gif]()|
-|Перенести тему|[topic_move.gif]()|
-|Разделить тему|[topic_split.gif]()|
-|Корзина|[topic_trashcan.gif]()|
-|Вновь открыть тему|[topic_unlock.gif]()|
+|Объявление|[f_announce.gif](https://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/f_announce.gif)|
+|Объявление - Новое|[f_announce_new.gif](https://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/f_announce_new.gif)|
+|Общее объявление|[folder_announce.gif](https://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/folder_announce.gif)|
+|Общее объявление - Новое|[folder_announce_new.gif](http://goo.gl/wwfqPE)|
+|Важно|[f_pinned.gif](https://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/f_pinned.gif)|
+|Важно - Новое|[f_pinned_new.gif](https://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/f_pinned_new.gif)|
+|Удалить тему|[topic_delete.gif](https://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/topic_delete.gif)|
+|Закрыть тему|[topic_lock.gif](https://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/topic_lock.gif)|
+|Объединить темы|[topic_merge.gif](https://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/topic_merge.gif)|
+|Перенести тему|[topic_move.gif](https://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/topic_move.gif)|
+|Разделить тему|[topic_split.gif](https://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/topic_split.gif)|
+|Корзина|[topic_trashcan.gif](https://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/topic_trashcan.gif)|
+|Вновь открыть тему|[topic_unlock.gif](https://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/topic_unlock.gif)|
 
 ### Мини-иконки
 
