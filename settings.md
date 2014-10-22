@@ -66,10 +66,10 @@
 |-------|----|
 |Тема|[1u0210.png](http://goo.gl/R8TkeH)|
 |Тема - Новое|[znfd10.png](http://goo.gl/v67FUP)|
-|Тема - Популярная тема & Новое|[thema_12.png]()|
+|Тема - Популярная тема & Новое|[thema_12.png](http://goo.gl/wOJRKE)|
 |Тема - Закрыт|[thema_10.png](http://goo.gl/Xwra3K)|
-|Тема - Новое & Закрыт|[thema_11.png]()|
-|Тема - Популярная тема|[thema_13.png]()|
+|Тема - Новое & Закрыт|[thema_11.png](http://goo.gl/IvBjBH)|
+|Тема - Популярная тема|[thema_13.png](http://goo.gl/CLRFWl)|
 |Объявление|[f_announce.gif]()|
 |Объявление - Новое|[f_announce_new.gif]()|
 |Общее объявление|[folder_announce.gif]()|
