@@ -64,6 +64,25 @@
 
 |Элемент|Файл|
 |-------|----|
+|Тема|[1u0210.png](http://goo.gl/R8TkeH)|
+|Тема - Новое|[znfd10.png](http://goo.gl/v67FUP)|
+|Тема - Популярная тема & Новое|[thema_12.png]()|
+|Тема - Закрыт|[thema_10.png](http://goo.gl/Xwra3K)|
+|Тема - Новое & Закрыт|[thema_11.png]()|
+|Тема - Популярная тема|[thema_13.png]()|
+|Объявление|[f_announce.gif]()|
+|Объявление - Новое|[f_announce_new.gif]()|
+|Общее объявление|[folder_announce.gif]()|
+|Общее объявление - Новое|[folder_announce_new.gif]()|
+|Важно|[f_pinned.gif]()|
+|Важно - Новое|[f_pinned_new.gif]()|
+|Удалить тему|[topic_delete.gif]()|
+|Закрыть тему|[topic_lock.gif]()|
+|Объединить темы|[topic_merge.gif]()|
+|Перенести тему|[topic_move.gif]()|
+|Разделить тему|[topic_split.gif]()|
+|Корзина|[topic_trashcan.gif]()|
+|Вновь открыть тему|[topic_unlock.gif]()|
 
 ### Мини-иконки
 
