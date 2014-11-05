@@ -88,29 +88,29 @@
 
 |Элемент|Файл|
 |-------|----|
-|Мини-категория|[subforum_read.gif]()|
-|Мини-категория - Новое|[subforum_unread.gif]()|
-|Мини-категория - Закрыт|[icon_category_locked.gif]()|
+|Мини-категория|[subforum_read.gif](https://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/subforum_read.gif)|
+|Мини-категория - Новое|[subforum_unread.gif](https://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/subforum_unread.gif)|
+|Мини-категория - Закрыт|[icon_category_locked.gif](http://goo.gl/JumtS6)|
 |Мини-часы|[empty.gif](http://goo.gl/EV0NBP)|
-|Мини-тема|[icon_post_target.gif]()|
-|Мини-тема - Новое|[icon_post_target_unread.gif]()|
-|Мини-тема - Закрыт|[icon_locked.gif]()|
-|Мини-тема - Участие|[f_posted_in.gif]()|
-|Ссылка на последнее сообщение|[old10.png]()|
-|Ссылка на последнее сообщение - Новое|[new10.png]()|
-|Календарь|[icon_calendar2.gif]()|
-|Календарное событие|[icon_post_target.gif]()|
-|День рождения пользователя (календарь)|[icon_tiny_profile.gif]()|
-|Мужской пол|[icon_minigender_male.gif]()|
-|Женский пол|[icon_minigender_female.gif]()|
-|Вернуться к началу|[top10.png]()|
-|Перейти вниз|[arrow_down.gif]()|
-|Предыдущая тема|[arrow_left.gif]()|
-|Следующая тема|[arrow_right.gif]()|
-|-|[tabs_less.gif]()|
-|+|[tabs_more.gif]()|
-|Мини-иконка - Online|[Online.png]()|
-|Мини-иконка - Offline|[Offline.png]()|
+|Мини-тема|[icon_post_target.gif](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/icon_post_target.gif)|
+|Мини-тема - Новое|[icon_post_target_unread.gif](http://goo.gl/QVPNml)|
+|Мини-тема - Закрыт|[icon_locked.gif](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/icon_locked.gif)|
+|Мини-тема - Участие|[f_posted_in.gif](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/f_posted_in.gif)|
+|Ссылка на последнее сообщение|[old10.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/old10.png)|
+|Ссылка на последнее сообщение - Новое|[new10.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/new10.png)|
+|Календарь|[icon_calendar2.gif](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/icon_calendar2.gif)|
+|Календарное событие|[icon_post_target.gif](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/icon_post_target.gif)|
+|День рождения пользователя (календарь)|[icon_tiny_profile.gif](http://goo.gl/vGDDmw)|
+|Мужской пол|[icon_minigender_male.gif](http://goo.gl/C9ohge)|
+|Женский пол|[icon_minigender_female.gif](http://goo.gl/VglTs0)|
+|Вернуться к началу|[top10.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/top10.png)|
+|Перейти вниз|[arrow_down.gif](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/arrow_down.gif)|
+|Предыдущая тема|[arrow_left.gif](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/arrow_left.gif)|
+|Следующая тема|[arrow_right.gif](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/arrow_right.gif)|
+|-|[tabs_less.gif](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/tabs_less.gif)|
+|+|[tabs_more.gif](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/tabs_more.gif)|
+|Мини-иконка - Online|[Online.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/Online.png)|
+|Мини-иконка - Offline|[Offline.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/Offline.png)|
 
 
 ### Кнопки
