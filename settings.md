@@ -117,6 +117,45 @@
 
 |Элемент|Файл|
 |-------|----|
+|Начать новую тему|[01.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/buttons/01.png)|
+|Ответить на тему|[02.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/buttons/02.png)|
+|Новые сообщения - Тема закрыта|[closed11.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/buttons/closed11.png)|
+|Ответить с цитатой|[03.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/buttons/03.png)|
+|Дезактивированная мульти-цитата|[icon_multiquote_off_en.png]()|
+|Активированная мульти-цитата|[icon_multiquote_on_en.png]()|
+|Кнопка "Спасибо"|[icon_thanks_off_en.png]()|
+|Спасибо уже сказали|[icon_thanks_on_en.png]()|
+|Редактировать сообщение|[04.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/buttons/04.png)|
+|Удалить сообщение|[05.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/buttons/05.png)|
+|Показать IP адрес автора|[icon_post_info.gif]()|
+|Послать сигнальный рапорт|[p_report_en.gif]()|
+|Посланный сигнальный рапорт|[icon_post_reported.gif]()|
+|Закрытый сигнальный рапорт|[icon_report_close.png]()|
+|Закрыть сигнальные рапорты|[icon_report_close.png]()|
+|Открыть сигнальные рапорты|[icon_report_open.png]()|
+|Найти все темы, созданные пользователем|[icon_contact_search.gif]()|
+|Профиль|[icon_user_profile.png]()|
+|Посетить сайт автора|[icon_contact_www.gif]()|
+|E-mail|[icon_contact_email.gif]()|
+|Личное сообщение|[icon_contact_pm.png]()|
+|Facebook|[icon_contact_fb.gif]()|
+|Twitter|[icon_contact_twitter.gif]()|
+|Pinterest|[icon_contact_pinterest.gif]()|
+|Адрес AIM|[icon_contact_aim.gif]()|
+|Номер ICQ|[icon_contact_icq.gif]()|
+|MSN Messenger|[icon_contact_msnm.gif]()|
+|Yahoo Messenger|[icon_contact_yahoo.gif]()|
+|Skype|[icon_contact_skype.gif]()|
+|Online|[user-online.png]()|
+|Написать новое личное сообщение|[newpm10.png]()|
+|Входящие|[empty.gif]()|
+|Отправленные|[empty.gif]()|
+|Исходящие|[empty.gif]()|
+|Сохраненные|[empty.gif]()|
+|Редактирование поля|[edit.png]()|
+|Подтверждение изменений в поле|[valid.png]()|
+|Показать вложенные файлы|[url_icon.gif]()|
+|Скачать вложенные файлы|[dl.png]()|
 
 ### Галерея
 
