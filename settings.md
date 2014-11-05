@@ -161,6 +161,19 @@
 
 |Элемент|Файл|
 |-------|----|
+|Загрузка фотографий|[upload_pic.gif]()|
+|Ссылка на публичные категории|[link_public_galleries.gif]()|
+|Ссылка на персональные альбомы|[link_personal_galleries.gif]()|
+|Ссылка на персональную галерею пользователя|[link_personal_gallery.gif]()|
+|Корзина|[icon_backup_folder.png]()|
+|Модерация|[icon_moderate.gif]()|
+|Статистика|[icon_stats.gif]()|
+|Левая стрелка|[icon_left_arrow3.gif]()|
+|Правая стрелка|[icon_right_arrow3.gif]()|
+|Значок оценки|[rating_star.png]()|
+|Пустой значок оценки|[rating_star_empty.png]()|
+|Первая фотография|[icon_first_arrow.gif]()|
+|Последняя фотография|[icon_last_arrow.gif]()|
 
 ### CSS форума
 
