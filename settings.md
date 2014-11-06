@@ -117,16 +117,16 @@
 
 |Элемент|Файл|
 |-------|----|
-|Начать новую тему|[01.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/buttons/01.png)|
-|Ответить на тему|[02.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/buttons/02.png)|
+|Начать новую тему|[addbig.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/buttons/addbig.png)|
+|Ответить на тему|[replay.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/buttons/replay.png)|
 |Новые сообщения - Тема закрыта|[closed11.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/buttons/closed11.png)|
-|Ответить с цитатой|[03.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/buttons/03.png)|
+|Ответить с цитатой|[quote.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/buttons/quote.png)|
 |Дезактивированная мульти-цитата|[icon_multiquote_off_en.png]()|
 |Активированная мульти-цитата|[icon_multiquote_on_en.png]()|
 |Кнопка "Спасибо"|[icon_thanks_off_en.png]()|
 |Спасибо уже сказали|[icon_thanks_on_en.png]()|
-|Редактировать сообщение|[04.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/buttons/04.png)|
-|Удалить сообщение|[05.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/buttons/05.png)|
+|Редактировать сообщение|[edit.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/buttons/edit.png)|
+|Удалить сообщение|[delete.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/buttons/delete.png)|
 |Показать IP адрес автора|[icon_post_info.gif]()|
 |Послать сигнальный рапорт|[p_report_en.gif]()|
 |Посланный сигнальный рапорт|[icon_post_reported.gif]()|
@@ -147,7 +147,7 @@
 |Yahoo Messenger|[icon_contact_yahoo.gif]()|
 |Skype|[icon_contact_skype.gif]()|
 |Online|[user-online.png]()|
-|Написать новое личное сообщение|[newpm10.png]()|
+|Написать новое личное сообщение|[newpm10.png](http://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/buttons/newpm10.png)|
 |Входящие|[empty.gif]()|
 |Отправленные|[empty.gif]()|
 |Исходящие|[empty.gif]()|
