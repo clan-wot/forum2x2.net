@@ -185,3 +185,33 @@
 
 - Отключить базовую таблицу стилей CSS: нет
 - Оптимизировать вашу CSS: да
+
+### JavaScript
+
+ПА -> Модули -> HTML & JAVASCRIPT -> Управление кодами Javascript
+
+Активировать управление кодами Javascript : Да
+
+reply (http://spice.forum2x2.net/10122.js) На всех страницах
+
+```javascript
+jQuery(document).ready(function() {
+
+    $('.post .name strong a').attr({'href': '#quick_reply', 'title': 'Вставить ник'}).click(function(){
+    aaa_text = $(this).text();
+    $("div.sceditor-toolbar + iframe").contents().find("body").append('<b>' + aaa_text + '</b>, ');
+    $('.sceditor-container textarea')[0].value += '[b]' + aaa_text + '[/b], '
+    });
+
+    });
+```
+
+online	(http://spice.forum2x2.net/11096.js) На всех страницах
+
+```javascript
+jQuery(document).ready(function(){
+    jQuery(".postprofile-details dt img").wrap('<div class="user2"></div>');
+    jQuery(".user2").append(jQuery('<div></div>'));
+    jQuery(".online .user2 div").append(jQuery('<img src="https://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/Online.png" alt="Я тут!" Title="Я тут!" class="rec" />'));
+    });
+```
