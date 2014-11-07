@@ -212,6 +212,6 @@ online	(http://spice.forum2x2.net/11096.js) На всех страницах
 jQuery(document).ready(function(){
     jQuery(".postprofile-details dt img").wrap('<div class="user2"></div>');
     jQuery(".user2").append(jQuery('<div></div>'));
-    jQuery(".online .user2 div").append(jQuery('<img src="https://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/Online.png" alt="Я тут!" Title="Я тут!" class="rec" />'));
+    jQuery(".online .user2 div").append(jQuery('<img src="https://raw.githubusercontent.com/clan-wot/forum2x2.net/master/images/logo/online.png" alt="Я тут!" Title="Я тут!" class="rec" />'));
     });
 ```
